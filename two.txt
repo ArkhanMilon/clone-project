@@ -1,0 +1,3 @@
+"main" & "feature-10" name 2 ta branch ase  
+
+ai 2 ta local branch k marge korbo  
